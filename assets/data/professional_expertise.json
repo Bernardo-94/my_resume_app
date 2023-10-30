@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "occupation": "Desenvolvedor FrontEnd",
+        "company": "In8 Serviços",
+        "duration": "Setembro de 2022 - Setembro 2023",
+        "address": "Belo Horizonte, Minas Gerais, Brasil (Remoto)",
+        "skills": [
+            "-Desenvolvimento Web utilizando Flutter;",
+            "-Gerenciamento de estado utilizando GetX;",
+            "-Resolução de Bugs;",
+            "-Versionamento de código utilizando Git e Gitlab;",
+            "-Gestão ágil do projeto utilizando ClickUp"
+        ]
+    },
+    {
+        "id": 2,
+        "occupation": "Desenvolvedor Jr",
+        "company": "VSA Business",
+        "duration": "Março de 2021 - Agosto de 2022 ",
+        "address": "Rio de Janeiro, Rio de Janeiro, Brasil (Remoto)",
+        "skills": [
+            "-Desenvolvimento web em Angular;",
+            "-Desenvolvimento Mobile em Ionic;",
+            "-Desenvolvimento Mobile em Flutter;",
+            "-Desenvolvimento Back-End em AdonisJs;",
+            "-Resolução de Bugs;",
+            "-Consultas no Banco de Dados utilizando SQL;",
+            "-Versionamento de código utilizando Git e Bitbucket;",
+            "-Gestão ágil do projeto utilizando Trello"
+        ]
+    },
+    {
+        "id": 3,
+        "occupation": "Analista de Suporte",
+        "company": "STP Systems",
+        "duration": "Outubro de 2020 - Outubro de 2021 ",
+        "address": "Rio de Janeiro, Rio de Janeiro, Brasil (Híbrido)",
+        "skills": [
+            "-Suporte remoto ao usuário;",
+            "-Suporte presencial;",
+            "-Treinamento de usuários do sistema;",
+            "-Cadastro de novos clientes;"
+        ]
+    },
+    {
+        "id": 4,
+        "occupation": "Auxiliar de Suporte",
+        "company": "Station Net",
+        "duration": "Novembro de 2019 - Setembro de 2020 ",
+        "address": "Duque de Caxias, Rio de Janeiro, Brasil",
+        "skills": [
+            "-Cadastro de novos clientes;",
+            "-Suporte aos técnicos de campo;",
+            "-Faturamento;",
+            "-Fechamento de caixa;"
+        ]
+    },
+    {
+        "id": 5,
+        "occupation": "Consultor Técnico Jr",
+        "company": "Tecnoarte",
+        "duration": "Julho de 2019 - outubro de 2019 ",
+        "address": "Rio de Janeiro, Rio de Janeiro, Brasil",
+        "skills": [
+            "-Suporte aos usuários do sistema;",
+            "-Resolução de BUGS via script SQL;",
+            "-Atualização de versão do sistema;"
+        ]
+    },
+    {
+        "id": 6,
+        "occupation": "Estagiário de TI",
+        "company": "ATN Contact Center",
+        "duration": "Agosto de 2018 - Julho de 2019 ",
+        "address": "Rio de Janeiro, Rio de Janeiro, Brasil",
+        "skills": [
+            "-Montagem e manutenção de micro;",
+            "-Suporte técnico aos funcionários da empresa;",
+            "-Cadastro de novos funcionários;"
+        ]
+    },
+    {
+        "id": 7,
+        "occupation": "Analista de Suporte",
+        "company": "Atos Brasil",
+        "duration": "Junho de 2016 - Setembro de 2016 (Temporário)",
+        "address": "Rio de Janeiro, Rio de Janeiro, Brasil",
+        "skills": [
+            "-Suporte presencial e remoto aos usuários da Rio2016;",
+            "-Montagem e manutenção de micro;",
+            "-Controle de estoque;"
+        ]
+    }
+]

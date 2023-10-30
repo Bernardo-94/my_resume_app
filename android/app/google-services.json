@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "191462736233",
+    "project_id": "bernardo-cardoso-presentation",
+    "storage_bucket": "bernardo-cardoso-presentation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191462736233:android:b5dde4e8d55560e7a37df8",
+        "android_client_info": {
+          "package_name": "com.example.bernardo_cardoso_presentation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191462736233-4asdulaid6n7m06l4vjs7g22t1nthfca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6srzbAHoDkUEo1_nFFB01p4eWjDNUlyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191462736233-4asdulaid6n7m06l4vjs7g22t1nthfca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "191462736233-mhv04k7mbufe5vn0gums7o9qd666jsle.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bernardoCardosoPresentation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
