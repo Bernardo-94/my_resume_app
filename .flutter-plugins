@@ -1,0 +1,24 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/bernardo/.pub-cache/hosted/pub.dev/cloud_firestore-4.9.0/
+cloud_firestore_web=/home/bernardo/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.7.0/
+device_info_plus=/home/bernardo/.pub-cache/hosted/pub.dev/device_info_plus-9.1.0/
+firebase_core=/home/bernardo/.pub-cache/hosted/pub.dev/firebase_core-2.15.1/
+firebase_core_web=/home/bernardo/.pub-cache/hosted/pub.dev/firebase_core_web-2.7.0/
+flutter_pdfview=/home/bernardo/.pub-cache/hosted/pub.dev/flutter_pdfview-1.3.2/
+path_provider=/home/bernardo/.pub-cache/hosted/pub.dev/path_provider-2.1.0/
+path_provider_android=/home/bernardo/.pub-cache/hosted/pub.dev/path_provider_android-2.1.0/
+path_provider_foundation=/home/bernardo/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.0/
+path_provider_linux=/home/bernardo/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.0/
+path_provider_windows=/home/bernardo/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.0/
+sqflite=/home/bernardo/.pub-cache/hosted/pub.dev/sqflite-2.3.0/
+syncfusion_flutter_pdfviewer=/home/bernardo/.pub-cache/hosted/pub.dev/syncfusion_flutter_pdfviewer-23.1.39/
+syncfusion_pdfviewer_macos=/home/bernardo/.pub-cache/hosted/pub.dev/syncfusion_pdfviewer_macos-23.1.42/
+syncfusion_pdfviewer_web=/home/bernardo/.pub-cache/hosted/pub.dev/syncfusion_pdfviewer_web-23.1.42/
+syncfusion_pdfviewer_windows=/home/bernardo/.pub-cache/hosted/pub.dev/syncfusion_pdfviewer_windows-23.1.42/
+url_launcher=/home/bernardo/.pub-cache/hosted/pub.dev/url_launcher-6.1.12/
+url_launcher_android=/home/bernardo/.pub-cache/hosted/pub.dev/url_launcher_android-6.0.38/
+url_launcher_ios=/home/bernardo/.pub-cache/hosted/pub.dev/url_launcher_ios-6.1.4/
+url_launcher_linux=/home/bernardo/.pub-cache/hosted/pub.dev/url_launcher_linux-3.0.5/
+url_launcher_macos=/home/bernardo/.pub-cache/hosted/pub.dev/url_launcher_macos-3.0.6/
+url_launcher_web=/home/bernardo/.pub-cache/hosted/pub.dev/url_launcher_web-2.0.18/
+url_launcher_windows=/home/bernardo/.pub-cache/hosted/pub.dev/url_launcher_windows-3.0.7/
